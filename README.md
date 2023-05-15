@@ -1,7 +1,7 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+👋+I'm+Ffion+Davies!;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/70900/screenshots/2957833/programmers-day-banner.gif">
-<h3> :woman: &nbsp;About Me </h3>
+<h3 align="left">About me:</h3>
 <div>
 💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science<br>
 :heart: My favorite languages: Python and R<br>
